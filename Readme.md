@@ -330,8 +330,8 @@ first of all
 [![.NET](https://github.com/etammam/Volvo.CongestionTaxCalculator/actions/workflows/dotnet.yml/badge.svg)](https://github.com/etammam/Volvo.CongestionTaxCalculator/actions/workflows/dotnet.yml)  
 [![CodeQL](https://github.com/etammam/Volvo.CongestionTaxCalculator/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/etammam/Volvo.CongestionTaxCalculator/actions/workflows/codeql-analysis.yml)  
 [![buddy pipeline](https://app.buddy.works/fondness/volvo-congestiontaxcalculator/pipelines/pipeline/375838/badge.svg?token=e17a770aad296280f7df61cb56264193d68461c23941e94b8c0ef6cdad3f64ae "buddy pipeline")](https://app.buddy.works/fondness/volvo-congestiontaxcalculator/pipelines/pipeline/375838)  
-[![Docker Image CI](https://github.com/etammam/Volvo.CongestionTaxCalculator/actions/workflows/docker-image.yml/badge.svg)](https://github.com/etammam/Volvo.CongestionTaxCalculator/actions/workflows/docker-image.yml)
-
+[![Docker Image CI](https://github.com/etammam/Volvo.CongestionTaxCalculator/actions/workflows/docker-image.yml/badge.svg)](https://github.com/etammam/Volvo.CongestionTaxCalculator/actions/workflows/docker-image.yml)  
+[![wakatime](https://wakatime.com/badge/github/etammam/Volvo.CongestionTaxCalculator.svg)](https://wakatime.com/badge/github/etammam/Volvo.CongestionTaxCalculator)
 #### Kickoff
 
 you can clone the source code and run it, then browse the swagger ui.  
