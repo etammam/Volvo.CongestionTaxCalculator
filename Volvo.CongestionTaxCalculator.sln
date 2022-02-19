@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CongestionTaxCalculator.API
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "document", "document", "{AFADDE91-AF5E-4E14-9503-5FD8FADA8F04}"
 	ProjectSection(SolutionItems) = preProject
-		document\Readme.md = document\Readme.md
+		Readme.md = Readme.md
 		document\Volvo.CongestionTaxCalculator.Architecture.drawio = document\Volvo.CongestionTaxCalculator.Architecture.drawio
 		document\Volvo.CongestionTaxCalculator.Journey.drawio = document\Volvo.CongestionTaxCalculator.Journey.drawio
 	EndProjectSection
