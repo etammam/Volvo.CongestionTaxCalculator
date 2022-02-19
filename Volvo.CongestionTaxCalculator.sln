@@ -17,7 +17,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CongestionTaxCalculator.App
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CongestionTaxCalculator.APIs", "src\CongestionTaxCalculator.APIs\CongestionTaxCalculator.APIs.csproj", "{4897D3E6-FA3E-4595-9904-DEFBBCDDFE71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CongestionTaxCalculator.APIs.Integration.Tests", "test\CongestionTaxCalculator.APIs.Integration.Tests\CongestionTaxCalculator.APIs.Integration.Tests.csproj", "{5F1D683E-68FC-497D-B3E5-50FADAE298FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CongestionTaxCalculator.APIs.Integration.Tests", "test\CongestionTaxCalculator.APIs.Integration.Tests\CongestionTaxCalculator.APIs.Integration.Tests.csproj", "{5F1D683E-68FC-497D-B3E5-50FADAE298FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "document", "document", "{AFADDE91-AF5E-4E14-9503-5FD8FADA8F04}"
+	ProjectSection(SolutionItems) = preProject
+		document\Readme.md = document\Readme.md
+		document\Volvo.CongestionTaxCalculator.Architecture.drawio = document\Volvo.CongestionTaxCalculator.Architecture.drawio
+		document\Volvo.CongestionTaxCalculator.Journey.drawio = document\Volvo.CongestionTaxCalculator.Journey.drawio
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

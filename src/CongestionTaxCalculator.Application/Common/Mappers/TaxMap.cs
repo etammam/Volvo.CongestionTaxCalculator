@@ -17,14 +17,13 @@ namespace CongestionTaxCalculator.Application.Common.Mappers
 
             CreateMap<TaxHistory, GetTaxHistoryByVehicleQueryResult>()
                 .ForMember(t => t.VehicleType, opt => opt.MapFrom(t => t.VehicleType.ToString()))
-                .ForMember(t => t.CityName, opt => opt.MapFrom(t => t.City.Name));
+                .ForMember(t => t.CityName, opt => opt.MapFrom(t => t.City.Name))
+                .ForMember(t => t.Issue, opt => opt.MapFrom(t => t.Issued));
 
             CreateMap<TaxHistory, GetTaxHistoryByCityQueryResult>()
                 .ForMember(t => t.VehicleType, opt => opt.MapFrom(t => t.VehicleType.ToString()))
-                .ForMember(t => t.CityName, opt => opt.MapFrom(t => t.City.Name));
-
-            //CreateMap<TaxHistory, TaxHistoryList>()
-            //    .ForMember(t => t.VehicleType, opt => opt.MapFrom(t => t.VehicleType.ToString()));
+                .ForMember(t => t.CityName, opt => opt.MapFrom(t => t.City.Name))
+                .ForMember(t => t.Issue, opt => opt.MapFrom(t => t.Issued));
         }
     }
 }
