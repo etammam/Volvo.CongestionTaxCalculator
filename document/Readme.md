@@ -45,7 +45,7 @@ to keep eyes on.
 
 #### Assets
 1. [Application Architecture](https://github.com/etammam/Volvo.CongestionTaxCalculator/blob/master/document/Volvo.CongestionTaxCalculator.Architecture.drawio)
-2. [User Journey](https://github.com/etammam/Volvo.CongestionTaxCalculator/blob/master/document/Volvo.CongestionTaxCalculator.Journey.drawio)
+2. [User Journey](https://github.com/etammam/Volvo.CongestionTaxCalculator/blob/master/document/Volvo.CongestionTaxCalculator.UserJourny.drawio)
 3. External Dependencies  
    - [Guard Clause](https://github.com/ardalis/GuardClauses)
    - [Nager Date](https://github.com/nager/Nager.Date)
@@ -329,7 +329,7 @@ first of all
 
 #### Kickoff
 
-you can clone the source code and run it, then browse the swagger ui.
-or you can build the docker image using dockerfile in cloned source
+you can clone the source code and run it, then browse the swagger ui.  
+or you can build the docker image using dockerfile in cloned source  
 you can browse code into your ide and run unit tests 
 
